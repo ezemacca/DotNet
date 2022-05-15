@@ -1,0 +1,12 @@
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/bin/Debug/net6.0/BibliotecaTrabajo.deps.json
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/bin/Debug/net6.0/BibliotecaTrabajo.dll
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/bin/Debug/net6.0/BibliotecaTrabajo.pdb
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/BibliotecaTrabajo.csproj.AssemblyReference.cache
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/BibliotecaTrabajo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/BibliotecaTrabajo.AssemblyInfoInputs.cache
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/BibliotecaTrabajo.AssemblyInfo.cs
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/BibliotecaTrabajo.csproj.CoreCompileInputs.cache
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/BibliotecaTrabajo.dll
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/refint/BibliotecaTrabajo.dll
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/BibliotecaTrabajo.pdb
+/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/Debug/net6.0/ref/BibliotecaTrabajo.dll
