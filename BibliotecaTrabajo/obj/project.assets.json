@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/ezequielmacca/.nuget/packages/": {}
+    "C:\\Users\\Nicol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/BibliotecaTrabajo.csproj",
+      "projectUniqueName": "C:\\Users\\Nicol\\Documents\\GitHub\\DotNet\\BibliotecaTrabajo\\BibliotecaTrabajo.csproj",
       "projectName": "BibliotecaTrabajo",
-      "projectPath": "/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/BibliotecaTrabajo.csproj",
-      "packagesPath": "/Users/ezequielmacca/.nuget/packages/",
-      "outputPath": "/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/BibliotecaTrabajo/obj/",
+      "projectPath": "C:\\Users\\Nicol\\Documents\\GitHub\\DotNet\\BibliotecaTrabajo\\BibliotecaTrabajo.csproj",
+      "packagesPath": "C:\\Users\\Nicol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nicol\\Documents\\GitHub\\DotNet\\BibliotecaTrabajo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ezequielmacca/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

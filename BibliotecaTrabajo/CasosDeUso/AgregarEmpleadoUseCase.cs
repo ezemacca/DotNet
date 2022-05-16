@@ -2,7 +2,7 @@ namespace BibliotecaTrabajo;
 public class AgregarEmpleadoUseCase
 {
     private RepositorioEmpleadoArchTexto repo_emp= new RepositorioEmpleadoArchTexto();
-    void Ejecutar(Empleado emp)
+    public void Ejecutar(Empleado emp)
     {
         if(emp!=null)
         {

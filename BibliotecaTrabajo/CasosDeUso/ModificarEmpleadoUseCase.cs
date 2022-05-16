@@ -4,7 +4,7 @@ public class ModificarEmpleadoUseCase{
    
     /*
      Busca un empleado si DNI no es nulo*/
-     void Ejecutar(Empleado emp)
+    public void Ejecutar(Empleado emp)
     {
         if(emp!=null)
         {

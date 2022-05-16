@@ -5,7 +5,7 @@ public class ModificarClienteUseCase{
     /*
      Busca un cliente si DNI no es nulo
      */
-     void Ejecutar(Cliente cli)
+     public void Ejecutar(Cliente cli)
     {
         if(cli!=null)
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "64urIDyzEL+cIjui8JUg73AsAHt7xbC6ob4FNwzvmzidkCiU21ehsSIOT14JkVdVhqnnnnuPrve5M2sj3edkqg==",
+  "dgSpecHash": "w950+kimzrEpjrqZWFjd3TU5UmGhsvNg+htWp4gktgvp8nlLyWv3yX85WiAdfe4YXqvn6y62B/ZUx9pIlgsJNQ==",
   "success": true,
-  "projectFilePath": "/Users/ezequielmacca/TrabajoDotNet/SolucionTpDotNet/AplicacionTrabajo/AplicacionTrabajo.csproj",
+  "projectFilePath": "C:\\Users\\Nicol\\Documents\\GitHub\\DotNet\\AplicacionTrabajo\\AplicacionTrabajo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -20,11 +20,11 @@ public class RepositorioEmpleadoArchTexto
     }
     public List<Empleado> GetEmpleados()
     {
-        StreamReader EmpleadosSR=new StreamReader("Empleados.txt");
+        using StreamReader EmpleadosSR=new StreamReader("./Empleados.txt");
         List<Empleado> lista = new List<Empleado>();
         string? linea;
         string[] vec_empleado;
-        while(EmpleadosSR.EndOfStream)
+        while(!EmpleadosSR.EndOfStream)
         {
             linea= EmpleadosSR.ReadLine();
             /* El método Split(), al igual que en JavaScript 

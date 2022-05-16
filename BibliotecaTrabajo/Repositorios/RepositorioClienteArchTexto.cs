@@ -20,18 +20,18 @@ public class RepositorioClienteArchTexto : IRepositorioCliente
     }
     public List<Cliente> GetClientes()
     {
-        StreamReader ClientesSR=new StreamReader("./Clientes.txt");
+        using StreamReader ClientesSR=new StreamReader("./Clientes.txt");
         List<Cliente> lista = new List<Cliente>();
         string? linea;
         string[] vec_cliente;
-        while(ClientesSR.EndOfStream)
+        while(!ClientesSR.EndOfStream)
         {
             linea= ClientesSR.ReadLine();
             /* El método Split(), al igual que en JavaScript 
              divide a un string según el parámetro */
             if(linea!=null){
-            vec_cliente=linea.Split("|");            
-            Cliente cli= new Cliente(vec_cliente[0],vec_cliente[1],vec_cliente[2],vec_cliente[3],Convert.ToDateTime(vec_cliente[4]),Convert.ToDateTime(vec_cliente[5]));
+                vec_cliente=linea.Split("|");            
+                Cliente cli= new Cliente(vec_cliente[0],vec_cliente[1],vec_cliente[2],vec_cliente[3],Convert.ToDateTime(vec_cliente[4]),Convert.ToDateTime(vec_cliente[5]));
             lista.Add(cli);
             }
         }
@@ -74,8 +74,8 @@ public class RepositorioClienteArchTexto : IRepositorioCliente
     {
         List<Cliente> listaClientes= this.GetClientes();
         foreach (var nodo_cliente in listaClientes)
-        {
-            if (nodo_cliente.Dni == cliente.Dni)
+        {   
+            if (nodo_cliente.Dni== cliente.Dni)
             {
                 listaClientes.Remove(nodo_cliente);
                 listaClientes.Add(cliente);
